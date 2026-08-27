@@ -1,0 +1,12 @@
+# Archivos de Eclipse
+*.settings/
+.project
+.classpath
+
+# Compilados y binarios
+/bin/
+/target/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
