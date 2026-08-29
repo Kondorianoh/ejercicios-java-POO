@@ -8,6 +8,12 @@ public class Main {
 		Pedido pedido1 = new Pedido(mouse, 3);
 		
 		pedido1.mostrarResumen();
+		
+		System.out.println("-----------------------------");
+		
+		Pedido pedido2 = new Pedido(mouse, 0);
+		
+		pedido2.mostrarResumen();
 
 	}
 
